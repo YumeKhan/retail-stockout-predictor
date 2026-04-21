@@ -19,12 +19,12 @@ The project is structured into a functional data pipeline using a microservices 
 
 ## 📸 Screenshots
 
-*(Coloque aqui as imagens do seu projeto na pasta do GitHub e substitua os links abaixo)*
+![FastAPI Swagger UI] <img width="948" height="878" alt="image" src="https://github.com/user-attachments/assets/d25b6589-b225-4416-a0d1-cbf0b4f4643b" />
 
-![FastAPI Swagger UI]([link_da_imagem_do_json_aqui](https://github.com/YumeKhan/retail-stockout-predictor/blob/main/Imagens/Previsor%20de%20Ruptura%20de%20Estoque%20-%20front%20end.png)
 > *Backend API testing with Swagger UI returning JSON predictions.*
 
-![Streamlit Dashboard]([link_da_imagem_do_painel_escuro_aqui](https://github.com/YumeKhan/retail-stockout-predictor/blob/main/Imagens/Retail%20Stockout%20Predictor%20API.png)
+![Streamlit Dashboard] <img width="920" height="907" alt="image" src="https://github.com/user-attachments/assets/5d4c0dce-4cc6-436a-92c6-131e23f28edb" />
+
 > *Interactive frontend built with Streamlit.*
 
 ## 💻 How to Run This Project Locally
