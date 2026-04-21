@@ -29,15 +29,15 @@ The project is structured into a functional data pipeline using a microservices 
 
 ## 💻 How to Run This Project Locally
 
-**1. Clone the repository and install dependencies:**
+* **1. Clone the repository and install dependencies:**
 pip install -r requirements.txt
-2. Run the Data Pipeline (ETL):
+* **2. Run the Data Pipeline (ETL):**
 python data/gerar_banco.py
 python data/preparar_dados.py
-3. Start the Backend API (Terminal 1):
+* **3. Start the Backend API (Terminal 1):**
 python -m uvicorn app.main:app --reload
 (The API will be available at http://127.0.0.1:8000/docs)
-4. Start the Frontend Dashboard (Terminal 2):
+* **4. Start the Frontend Dashboard (Terminal 2):**
 python -m streamlit run app/frontend.py
 (The Dashboard will automatically open in your browser at http://localhost:8501)
 ```bash
