@@ -40,4 +40,10 @@ python -m uvicorn app.main:app --reload
 * **4. Start the Frontend Dashboard (Terminal 2):**
 python -m streamlit run app/frontend.py
 (The Dashboard will automatically open in your browser at http://localhost:8501)
+
+## 📈 Business Impact
+This solution addresses the "Stockout" problem in retail pharmacy operations. By predicting high-demand peaks based on historical patterns (e.g., paydays and weekends):
+* **Loss Prevention:** Reduces missed sales opportunities due to out-of-stock items.
+* **Operational Efficiency:** Allows managers to automate supply chain triggers.
+* **Data-Driven Decisions:** Shifts inventory management from intuition to predictive analytics.
 ```bash
